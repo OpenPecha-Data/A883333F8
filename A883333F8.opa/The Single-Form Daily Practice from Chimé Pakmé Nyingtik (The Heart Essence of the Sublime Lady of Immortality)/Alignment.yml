@@ -1,0 +1,19 @@
+segment_sources:
+  P14912120:
+    type: origin_type
+    relation: translation
+    language: en
+  P819A85A8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ee3de0f768bc4506bae38343e12bee53:
+    P14912120: c1e7e8f4cdf545579a017cd4c0a05d57
+    P819A85A8: efa36c324e56474daac53a1d993cac0d
+  16fdd7d1a15d4f49982890d8c57e411f:
+    P14912120: 9b99d7a4130649a59b52760b923aefff
+    P819A85A8: 9c0ef38bf85b46cdb03f808ea6276dd3
+  39640cc5d5834bbe94920a6d7ff8ac78:
+    P14912120: 9ffa04f2973e4ac28ff559c84d76d3e7
+    P819A85A8: 393d2a16411a42dfa322172cfaef99e1
